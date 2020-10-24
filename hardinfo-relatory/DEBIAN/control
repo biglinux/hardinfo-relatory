@@ -1,0 +1,10 @@
+Package: hardinfo-relatory
+Version: 1.0.0-1big1
+Depends: hardinfo, kdialog
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:
+Description: Use hardinfo to make relatory with another commands
+
